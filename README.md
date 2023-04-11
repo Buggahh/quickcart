@@ -19,12 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 
 Make sure to install flutter first.
 
-[Install flutter] (https://docs.flutter.dev/get-started/install)
+[Install flutter](https://docs.flutter.dev/get-started/install)
 
-1. 'flutter pub get'
+1. `flutter pub get`
 
 To get all dependencies.
 
-2. 'flutter run'
+2. `flutter run`
 
 To run the flutter app. Make sure you have your Android or iOS Simulator open.
