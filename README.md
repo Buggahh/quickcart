@@ -17,14 +17,20 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to run?
 
-Make sure to install flutter first.
+Make sure to install flutter first. [Install flutter](https://docs.flutter.dev/get-started/install)
 
-[Install flutter](https://docs.flutter.dev/get-started/install)
+1. `git clone https://github.com/melmatx/quickcart.git`
 
-1. `flutter pub get`
+To download the files to your computer.
 
-To get all dependencies.
+2. `cd quickcart`
 
-2. `flutter run`
+To go to the directory of this project.
+
+3. `flutter pub get`
+
+To get all dependencies for this project.
+
+4. `flutter run`
 
 To run the flutter app. Make sure you have your Android or iOS Simulator open.
